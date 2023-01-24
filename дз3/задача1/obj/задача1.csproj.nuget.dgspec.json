@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v_dre\\Desktop\\с# дз\\дз3\\дз3.csproj": {}
+    "C:\\Users\\v_dre\\Desktop\\с# дз\\дз3\\задача1\\задача1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v_dre\\Desktop\\с# дз\\дз3\\дз3.csproj": {
+    "C:\\Users\\v_dre\\Desktop\\с# дз\\дз3\\задача1\\задача1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v_dre\\Desktop\\с# дз\\дз3\\дз3.csproj",
-        "projectName": "дз3",
-        "projectPath": "C:\\Users\\v_dre\\Desktop\\с# дз\\дз3\\дз3.csproj",
+        "projectUniqueName": "C:\\Users\\v_dre\\Desktop\\с# дз\\дз3\\задача1\\задача1.csproj",
+        "projectName": "задача1",
+        "projectPath": "C:\\Users\\v_dre\\Desktop\\с# дз\\дз3\\задача1\\задача1.csproj",
         "packagesPath": "C:\\Users\\v_dre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v_dre\\Desktop\\с# дз\\дз3\\obj\\",
+        "outputPath": "C:\\Users\\v_dre\\Desktop\\с# дз\\дз3\\задача1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\v_dre\\AppData\\Roaming\\NuGet\\NuGet.Config"
